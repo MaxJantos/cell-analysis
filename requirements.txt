@@ -1,0 +1,8 @@
+numpy
+scipy
+skimage
+tifffile
+tkinter
+matplotlib
+platform
+csv
